@@ -7,12 +7,14 @@ personal design projects
 Interface design sketches
 ---
 Wardrobe manager and packing helper web application
-![](/thumbnails/mylug_items.png?raw=true)
+![](/thumbnails/mylug_items.jpg?raw=true)
 ![](/thumbnails/mylug_wardrobe.png?raw=true)
 
 Metrics welcome dashboard
 ![](/thumbnails/mywlcg-dashboard.jpg?raw=true)
 
+Timeline web builder sketch
+![](/thumbnails/timeline.png?raw=true)
 
 Logo design
 ---
